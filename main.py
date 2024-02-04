@@ -1,4 +1,4 @@
-# This is a sample Python script.
+
 from _csv import reader
 import pandas as pd
 import pyarrow
